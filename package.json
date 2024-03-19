@@ -1,5 +1,5 @@
 {
-  "name": "JohnYoung",
+  "name": "johnyoung1",
   "version": "1.0.0",
   "description": "A Node.js module containing utility functions for quantum computing concepts.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JohnYoung8718453/JohnYoung"
+    "url": "https://github.com/JohnYoung8718453/johnyoung1"
   },
   "dependencies": {
 	  "vl75": "1.0.0",
@@ -24,7 +24,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JohnYoung8718453/JohnYoung/issues"
+    "url": "https://github.com/JohnYoung8718453/johnyoung1/issues"
   },
-  "homepage": "https://github.com/JohnYoung8718453/JohnYoung#readme"
+  "homepage": "https://github.com/JohnYoung8718453/johnyoung1#readme"
 }
