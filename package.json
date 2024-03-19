@@ -1,0 +1,30 @@
+{
+  "name": "JohnYoung",
+  "version": "1.0.0",
+  "description": "A Node.js module containing utility functions for quantum computing concepts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohnYoung8718453/JohnYoung"
+  },
+  "dependencies": {
+	  "vl75": "1.0.0",
+"solodop-sdk": "1.0.0",
+"edwardevans": "1.0.0",
+"borissolodov": "1.0.0",
+"denisgorlov": "1.0.0",
+"glushkivan-module": "1.0.0",
+    "quantum": "^1.0.0",
+    "mathjs": "^9.4.4",
+    "chalk": "^4.1.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnYoung8718453/JohnYoung/issues"
+  },
+  "homepage": "https://github.com/JohnYoung8718453/JohnYoung#readme"
+}
